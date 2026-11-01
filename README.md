@@ -51,4 +51,4 @@ Q3 treats applicants 1 and 2 (Ananya Rao, emails differing only by case) as one 
 
 ## AI usage
 
-Built with Claude Code. I reviewed the design and queries and ran the tests and SQL answers.
+Assistance of Claude Code. I reviewed the design and queries and ran the tests and SQL answers.
